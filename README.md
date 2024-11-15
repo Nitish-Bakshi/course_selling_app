@@ -1,4 +1,4 @@
-## Create a course selling app
+## Create a course selling app (learnings from 100xdevs)
 
 [](https://github.com/100xdevs-cohort-3/week-8-course-selling-project#create-a-course-selling-app)
 
